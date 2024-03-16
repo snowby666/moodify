@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"> A simple, lightweight and efficient Spotify playlist creator that generates custom playlists based on your mood 🎶
+<p align="center"> A simple Spotify playlist creator that generates custom playlists based on your mood 🎶
     <br> 
 </p>
 
@@ -59,7 +59,7 @@ This program is licensed under the [GNU GPL v3](https://github.com/snowby666/moo
 
 ### Copyright Notice
 ```
-snowby666/moodify: A simple, lightweight and efficient Spotify playlist creator that generates custom playlists based on your mood 
+snowby666/moodify: A simple Spotify playlist creator that generates custom playlists based on your mood 
 Copyright (C) 2024 snowby666
 
 This program is free software: you can redistribute it and/or modify

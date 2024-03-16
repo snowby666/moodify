@@ -5,7 +5,7 @@ base_path = Path(__file__).parent
 long_description = (base_path / "README.md").read_text(encoding='utf-8')
 
 VERSION = '1.0.0'
-DESCRIPTION = 'A simple, lightweight and efficient Spotify playlist creator that generates custom playlists based on your mood 🎶'
+DESCRIPTION = 'A simple Spotify playlist creator that generates custom playlists based on your mood 🎶'
 LONG_DESCRIPTION = '🎧 A music recommendation system that generates Spotify music playlist based on your mood and preferences 🦄'
 
 setup(
