@@ -48,7 +48,9 @@ WIP
 
 ## 🏁 Installation <a name = "installation"></a>
 
-WIP
+```ShellSession
+pip install -U moodify
+```
 
 ## ✍️ Contribution <a name = "contribution"></a>
 
