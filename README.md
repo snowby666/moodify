@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<a href="https://pypi.org/project/poe-api-wrapper/"><img src="https://img.shields.io/pypi/v/poe-api-wrapper"></a>
+<a href="https://pypi.org/project/moodify/"><img src="https://img.shields.io/pypi/v/moodify"></a>
 [![Python 3.9+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Last Commit](https://img.shields.io/github/last-commit/snowby666/Django-OpenCV-Video-Streaming)
