@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://github.com/snowby666">
-<img src="https://socialify.git.ci/snowby666/moodify/image?font=Raleway&forks=1&issues=1&language=1&logo=https://i.ibb.co/JsNwP3B/nobgprofile-3.png&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto" width="700" height="350"></a>
+<img src="https://socialify.git.ci/snowby666/moodify/image?font=Raleway&forks=1&issues=1&language=1&logo=https://i.ibb.co/xHrZxFY/logo-nobg.png&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto" width="700" height="350"></a>
 </p>
 
 <h1 align="center">Moodify <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" height=35></h1>
